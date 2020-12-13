@@ -1,6 +1,6 @@
 /**
- * @author      : worldpotato (worldpotato@$HOSTNAME)
- * @file        : thingSpeakWettereinschätzung
+ * @author      : worldpotato (worldpotato)
+ * @file        : thingSpeakWettereinschaetzung
  * @created     : Thursday Nov 19, 2020 15:13:31 CET
  */
 
